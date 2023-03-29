@@ -1,8 +1,8 @@
-# Hola, I`m Mark
-## Back-end developer from Kazakhstan 🇰🇿
-## I work in technology stack: 
+# I`m Mark
+## Back-end developer
+## stacks: 
 Python 🐍, Django/rest_framework, HTML/CSS, JS, Postgresql
-## Contact with me:
+## connection:
 - samangelofv@gmail.com
 - https://t.me/Samangelof 
 
