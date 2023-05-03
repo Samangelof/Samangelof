@@ -1,10 +1,7 @@
 # Markusha
 ## Back-end developer
 ## stacks: 
-Python 🐍, Django/rest_framework, HTML/CSS, JS, Postgresql
-## connection:
-- samangelofv@gmail.com
-- https://t.me/Samangelof 
+Python 🐍, Django/rest_framework, HTML/CSS, JS, nodeJs, php, Postgresql
 
 ⠄⢸⣿⣿⣿⡇⣏⣾⡞⡯⣥⣽⣷⡘⢶⡀⠡⣌⡔⢣⣿⣿⠄⠄⠄⠄⠄⠄ <br>
 ⠄⢸⣿⣿⣿⣷⢹⡖⠬⣚⣛⣯⣭⣛⢂⣙⠦⠈⡇⣾⣿⣿⡆⠄⠄⠄⠄⠄<br>
