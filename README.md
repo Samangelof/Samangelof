@@ -1,8 +1,7 @@
-## 🌐 My social media:
-
+## 🔗 My social media:
 [![Telegram](https://img.shields.io/badge/Telegram-%234361EE.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Samangelof)
 
-# 💻 My tech stack:
+# 🔧 My tech stack:
 [![Python](https://img.shields.io/badge/python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=306998)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=black&color=white)](https://flask.palletsprojects.com/)
@@ -21,6 +20,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samangelof&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samangelof&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samangelof&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samangelof&theme=material-palenight&hide_border=true)
+
+# 💜 Favorites project
+[![.](https://github-readme-stats.vercel.app/api/pin/?username=Samangelof&repo=Hnefatafl&theme=material-palenight&hide_border=true)](https://github.com/Samangelof/Hnefatafl)
+[![.](https://github-readme-stats.vercel.app/api/pin/?username=Samangelof&repo=Peine_Zarnama&theme=material-palenight&hide_border=true)](https://github.com/Samangelof/Peine_Zarnama)
