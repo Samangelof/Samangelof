@@ -16,12 +16,11 @@
 [![WSL](https://img.shields.io/badge/WSL-%23007CFF.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Docker Compose](https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samangelof&theme=material-palenight&hide_border=true)
 
 # 💜 Favorites project
 [![.](https://github-readme-stats.vercel.app/api/pin/?username=Samangelof&repo=Hnefatafl&theme=material-palenight&hide_border=true)](https://github.com/Samangelof/Hnefatafl)
 [![.](https://github-readme-stats.vercel.app/api/pin/?username=Samangelof&repo=Peine_Zarnama&theme=material-palenight&hide_border=true)](https://github.com/Samangelof/Peine_Zarnama)
+
+![.](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dracula&quote=Воин%20не%20может%20получить%20увольнение%20во%20время%20битвы&author=Екклесиаст%208:8)
